@@ -1,0 +1,4 @@
+data/*.csv
+LOF_flagged_*.csv
+results.json
+__pycache__/
